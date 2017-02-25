@@ -1,0 +1,14 @@
+
+#mycontainer{
+	width: 800px;
+	margin: 10px auto;
+}
+div{
+	text-align: center;
+}
+#mywidth{
+	border: 1px solid;
+}
+canvas{
+	border: 1px solid green;
+}
