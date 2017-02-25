@@ -1,2 +1,0 @@
-# mySubject
-mySubject
